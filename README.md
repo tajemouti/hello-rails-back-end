@@ -12,6 +12,7 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
+  - [Front-end Project](#front-end)
 - [👥 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -85,6 +86,10 @@ To test, run:
 ```
   rspec
 ```
+
+### Front-end Project <a name="front-end"></a>
+
+Front-end project [link](https://github.com/tajemouti/hello-react-front-end).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
